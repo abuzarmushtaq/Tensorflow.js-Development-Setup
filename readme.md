@@ -9,8 +9,8 @@ This is the basic setup of TensorFlow.js using:
 
 ## Commands
 
-First, run `npm install`, then use one of the commands below to start.
+First, run `npm install` or `npm i`, then use one of the commands below to start.
 
 - `npm run build`: Run webpack once.
-- `npm run buildW`: Run webpack in watch mode.
-- `npm start`: Run webpack once and start webpack-dev-server on port 8000.
+- `npm run build`: Run webpack in watch mode.
+- `npm start`: Run webpack once and start webpack-dev-server on port 8000. 👍
