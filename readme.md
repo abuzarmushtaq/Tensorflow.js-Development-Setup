@@ -7,8 +7,6 @@ This is the basic setup of TensorFlow.js using:
 - [Babel](https://babeljs.io/)
 - [ESLint](https://eslint.org/)
 
-**Note: This is for development purposes only. This is not production-ready. Webpack is using Source-Maps and `mode: 'development'`.**
-
 ## Commands
 
 First, run `npm install`, then use one of the commands below to start.
